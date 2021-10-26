@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-tool",
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "devDependencies": {
+    "which": "^2.0.2",
+    "zx": "^4.2.0"
+  }
+}

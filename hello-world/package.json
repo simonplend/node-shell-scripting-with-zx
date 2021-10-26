@@ -1,0 +1,7 @@
+{
+  "name": "example-hello-world",
+  "author": "Simon Plenderleith <simon@simonplend.co.uk> (https://simonplend.com/)",
+  "devDependencies": {
+    "zx": "^4.2.0"
+  }
+}
