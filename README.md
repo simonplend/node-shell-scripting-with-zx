@@ -5,7 +5,7 @@
 ## Article
 
 The code in this repository was written to accompany the article
-[How To Write Shell Scripts in Node with Google's zx](TODO).
+[How To Write Shell Scripts in Node with Google's zx](https://www.sitepoint.com/google-zx-write-node-shell-scripts).
 
 ## Requirements
 
