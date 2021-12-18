@@ -140,7 +140,7 @@ await $`npm init --yes`;
 const packageJson = await readPackageJson(targetDirectory);
 const selectedModuleSystem = await getNodeModuleSystem();
 
-packageJson.module = selectedModuleSystem;
+packageJson.type = selectedModuleSystem;
 
 await writePackageJson(targetDirectory, packageJson);
 
